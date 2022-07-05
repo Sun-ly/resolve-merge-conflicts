@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+conflicts resolved in my-resume
