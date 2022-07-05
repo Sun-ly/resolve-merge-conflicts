@@ -1,1 +1,1 @@
-conflicts in my-resume
+conflicts resolved in my-resume
